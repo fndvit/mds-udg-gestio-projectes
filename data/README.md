@@ -1,1 +1,0 @@
-# Documentació de les dades
