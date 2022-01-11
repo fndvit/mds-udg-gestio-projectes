@@ -1,4 +1,7 @@
 # {Nom del projecte}
+*Projecte de {autors}*
+
+> Descripció del escenari
 
 ## Objectius
 
